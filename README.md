@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bhavaniuttej
+- 👋 Hi, I’m @BhavaniuttejKumar Samala
 - 👀 I’m interested in Learning new Technologies and Solving complex problems
 - 🌱 I’m currently learning SpringBoot and Microservices
-- 📫 How to reach me email-samalabhavaniuttejkumar@gmail.com phone-9133020584
+- 📫 How to reach me samalabhavaniuttejkumar@gmail.com phone-9133020584
 
 <!---
 Bhavaniuttej/Bhavaniuttej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

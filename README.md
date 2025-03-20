@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BhavaniuttejKumar Samala
 - 👀 I’m interested in Learning new Technologies and Solving complex problems
 - 🌱 I’m currently learning SpringBoot and Microservices
+- 💼 I'm Working as a Associated Software Engineer in Tech Mahindra
 - 📫 How to reach me samalabhavaniuttejkumar@gmail.com 
 
 
